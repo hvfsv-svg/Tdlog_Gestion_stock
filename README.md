@@ -75,6 +75,11 @@ Chaque membre a des responsabilités précises pour assurer la contribution et l
 
 ---
 
+## **Tests unitaires**
+Nous avons également mis en place et exécuté des tests unitaires pour garantir la fiabilité des fonctionnalités développées. Ces tests automatisés nous ont permis de vérifier que chaque composant fonctionne comme prévu, réduisant ainsi le risque d'introduire des bugs lors des modifications.
+
+---
+
 ## **Auteur(s) et collaborateurs**
 Ce projet a été réalisé par une équipe de 6 membres dans le cadre d'un TD Log. Chaque membre a contribué à différents aspects du projet.
 
