@@ -10,7 +10,7 @@ Ce projet est une application web permettant la gestion des stocks, des articles
 - Gestion des clients et des fournisseurs : Ajout et mise à jour des données.
 - Gestion des commandes et des ventes : Création, annulation, et visualisation des commandes et ventes.
 - Interface utilisateur intuitive et responsive.
-
+- Déploiement facilité grâce à Docker.
 ---
 
 ## **Technologies utilisées**
@@ -18,7 +18,7 @@ Ce projet est une application web permettant la gestion des stocks, des articles
 - **Backend** : PHP
 - **Base de données** : MySQL
 - **Outils de collaboration** : Trello et GitHub
-
+- **Conteneurisation** : Docker, Docker Compose
 ---
 
 ## **Installation et configuration**
@@ -27,6 +27,7 @@ Ce projet est une application web permettant la gestion des stocks, des articles
 - Serveur web (par exemple, XAMPP ou WAMP)
 - Serveur MySQL
 - Navigateur web compatible
+- Docker
 
 ### **Étapes d'installation**
 
